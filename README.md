@@ -38,8 +38,8 @@ My GitHub page operates as a public introductory to my skills, projects, and mor
 
 **Tools & Experience:**
 - **Author & Researcher**
-- **Bachelors Student**
-- **Computer Vision Specialist**
+- **Masters Student**
+- **Computer Vision Engineer**
   - <img src="https://github.com/ChilledFerrum/ChilledFerrum/blob/c55b84bf0d87a1503484ecfa15cf438863084b65/style/OpenCV.png" width="40" height="15"> OpenCV (C++ & Python)
   - Advanced Object Detection
   - Object Tracking
