@@ -11,6 +11,10 @@ My name is Dimitrios Mpouziotas, a proud Computer Vision Engineer and Academic R
 - If you find yourself to be fragile, that is okay. It means that you have lots of room for improvement. The journey might be difficult and challenging. Keep fighting and never say "I give up", you'll love the end results.<br/>
 - Be self-aware of your ego and embrace it. It is natural and okay to be egotistic, as long as you are aware of it and don't use it against others. By doing so, you reveal the kindness that resides within your heart. <br/>
 <br/><br/>
+### Buy me a coffee
+Enjoying my work? Show your support by buying me a coffee. Each cup fuels me for more great code!
+
+<a href="https://buymeacoffee.com/mpouziotasd" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 ### About this GitHub page:
 My GitHub page operates as a public introductory to my skills, projects, and more that I'd like to share. On this page, I will be sharing some of the projects I have created throughout the time that I find interesting. <br/>
