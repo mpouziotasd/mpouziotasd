@@ -20,7 +20,8 @@ My GitHub page operates as a public introductory to my skills, projects, and mor
 ![](https://komarev.com/ghpvc/?username=ChilledFerrum&color=green)
 
 ### Running projects...
- - [Vis-DiceX<sup>2</sup>](https://github.com/ChilledFerrum/Vis-DiceX2) a computer vision web-based tool to perform inference, trainining and evaluation on object detection models and detect sides of dice.
+ - [IM4VIS](https://github.com/mpouziotasd/Industrial-Automation-IM4VIS-Visual-Inspection-System) Improving Industrial Manufacturing Production Efficiency using SOTA IM4VIS. 
+ - ~~[Vis-DiceX<sup>2</sup>](https://github.com/ChilledFerrum/Vis-DiceX2) a computer vision web-based tool to perform inference, trainining and evaluation on object detection models and detect sides of dice.~~
  - Proud developer of the <a>**ORACLE** model (Optimized Rigorous Advanced Cutting-edge model for Leveraging protection of Ecosystems)</a> - A advanced model capable of reporting valuable analytics with the use of advanced object detection and tracking techniques.
     - <a href="https://youtu.be/i6lwUkJdKg0">ORACLE 2.0 Wildlife Surveillance - A Multimodal Data Collection Method Using YOLOv10x and ViT-B16</a>
     - <a href="https://youtu.be/P68YwJPc2DY">ORACLE - Advanced Object Detection and Tracking of small objects using a Finetuned YOLOv8x-p2 model</a>
